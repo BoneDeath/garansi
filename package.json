@@ -19,5 +19,13 @@
   "devDependencies": {
     "@pinegrow/nuxt-module": "^3.0.56",
     "@pinegrow/tailwindcss-plugin": "^3.0.20"
+  },
+  "pnpm": {
+    "overrides": {
+      "nuxi": "3.8.4"
+    }
+  },
+  "overrides": {
+    "nuxi": "3.8.4"
   }
 }
